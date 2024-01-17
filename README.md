@@ -69,6 +69,8 @@ apt update -y && yes | apt upgrade && pkg install -y bash wget mpv &&
 ```
 ```bash
 wget -O - https://raw.githubusercontent.com/Miguelbots124/KatzyBot-MD/master/install.sh | bash
+
+
 -----
 ### 📁 (OPCIÓN 2) 𝐀𝐂𝐓𝐈𝐕𝐀 𝐄𝐋 𝐓𝐄𝐑𝐌𝐔𝐗 - 𝘼𝙍𝘾𝙃𝙄𝙑𝙊𝙎 
 > **Note** Descargué y Descomprime
