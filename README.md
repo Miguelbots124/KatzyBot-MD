@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-<img src="https://telegra.ph/file/9854a169d0eaea13083c7.jpg" alt="LoliBot-MD" width="900"/>
+<img src="https://telegra.ph/file/9854a169d0eaea13083c7.jpg" alt="KatzyBot-MD" width="900"/>
 </p>
 
 <p align="center">
