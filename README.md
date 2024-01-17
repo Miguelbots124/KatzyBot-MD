@@ -65,7 +65,7 @@ src="https://telegra.ph/file/af2d01d2b9f01f8a96b69.jpg" width="400" height="230"
 termux-setup-storage
 ```
 ```bash
-apt update -y && yes | apt upgrade && pkg install -y bash wget mpv && 
+pkg update -y && pkg upgrate -y && pkg install -y bash && pkg install -y wget && pkg install yarn
 ```
 ```bash
 wget -O - https://raw.githubusercontent.com/Miguelbots124/KatzyBot-MD/master/install.sh | bash
