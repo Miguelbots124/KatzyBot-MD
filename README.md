@@ -112,7 +112,7 @@ npm start
 > npm start
 ```
 ------------------
-### 🚀 USAR LOLIBOT 24/7 EN TERMUX 
+### 🚀 USAR 𝙆𝙖𝙩𝙯𝙮𝘽𝙤𝙩-𝙈𝘿 24/7 EN TERMUX 
 > Ejecutar estos comandos dentro de la carpeta LoliBot-MD
 ```bash
 termux-wake-lock && npm i -g pm2 && pm2 start index.js && pm2 save && pm2 logs 
